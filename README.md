@@ -10,4 +10,4 @@ bem vindo ao meu perfil ⭐
  ⭐ Utilizo esse espaço para minha organização e
 compartilhamento dos meus projetos desenvolvidos⭐
 
-! [descrição do GIF](https://media.tenor.com/XNYXr6rL2o8AAAAM/duck.gif) 
+![descrição do GIF](https://media.tenor.com/XNYXr6rL2o8AAAAM/duck.gif) 
